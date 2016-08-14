@@ -1,6 +1,6 @@
 {
   "name": "require-hash",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Require file paths relative to your projects package.json file using #",
   "main": "require-hash.js",
   "scripts": {
